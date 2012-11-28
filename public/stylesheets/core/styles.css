@@ -1,0 +1,17 @@
+.nav{
+	background-color:76c6e7;
+	height: 43px;
+	width: 100%;
+}
+
+ul li a{
+	margin-right: 20px;
+}
+
+ul li a:hover{
+	background-color: b4e1f9;
+	height: 50px;
+
+}
+
+ul li a:
